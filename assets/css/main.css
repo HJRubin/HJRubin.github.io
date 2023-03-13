@@ -3068,7 +3068,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		padding: 1em 1em 1em 1em ;
 		text-align: center;
 	}
 
@@ -3113,9 +3113,14 @@ input, select, textarea {
 			#header {
 				padding: 4em 4em 0.1em 4em ;
 			}
+			#header1 {
+				text-align: center;
+				padding: 1em 1em 0.1em 4em ;
+			}
+
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 2em 4em 3em 4em ;
 				}
 
 		}
@@ -3193,7 +3198,16 @@ input, select, textarea {
 		}
 
 /* Nav */
-
+div.a {
+	margin-top: 0.1em;
+	/* outline: 3px solid black; */
+	display: block;
+	text-align: center;
+	/* color:#e68a5f */
+  }
+  /* div.a:hover {
+	color:#000000;
+} */
 	#nav {
 		-moz-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
