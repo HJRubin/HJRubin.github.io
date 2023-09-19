@@ -3082,7 +3082,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 2em 5em 2em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3111,16 +3111,16 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 4em 4em 0.1em 4em ;
+				padding: 2em 2em 0.1em 2em ;
 			}
 			#header1 {
 				text-align: center;
-				padding: 1em 1em 0.1em 4em ;
+				padding: 1em 1em 0.1em 2em ;
 			}
 
 
 				#header.alt {
-					padding: 2em 4em 3em 4em ;
+					padding: 2em 4em 3em 2em ;
 				}
 
 		}
@@ -3128,11 +3128,11 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header {
-				padding: 4em 3em 0.1em 3em ;
+				padding: 2em 2em 0.1em 2em ;
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 2em 2em 2em 2em ;
 				}
 
 		}
